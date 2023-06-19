@@ -1,0 +1,45 @@
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Milestone.resources
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminLogin.resources
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminPortal.resources
+C:\Users\Dusty4G\source\repos\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.InventoryPortal.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Milestone.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminLogin.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminPortal.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.InventoryPortal.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+D:\Programming\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.CostumerPortal.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe.config
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.exe
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\bin\Debug\Milestone Project.pdb
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.AssemblyReference.cache
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Milestone.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminLogin.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.AdminPortal.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.InventoryPortal.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.CostumerPortal.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.Properties.Resources.resources
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.GenerateResource.cache
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.csproj.CoreCompileInputs.cache
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.exe
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone Project.pdb
+C:\Users\Dusty4G\Downloads\Milestone Project\Milestone Project\Milestone Project\obj\Debug\Milestone_Project.EmployeeForm.resources
